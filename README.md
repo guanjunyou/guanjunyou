@@ -9,5 +9,5 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=guanjunyou&hide_border=true&show_icons=true&line_height=21&theme=github_dark" alt="SurKaa's github stats" /> |
 | ------ |
-| <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50549897"> </div> |
-| <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?username=nervous-diffiebjp&cn=true"> </div> |
+| <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50549897&theme=github_dark"> </div> |
+| <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?username=nervous-diffiebjp&cn=true&theme=github_dark"> </div> |
