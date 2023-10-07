@@ -14,5 +14,4 @@
     <img src="https://stats.justsong.cn/api/csdn?id=weixin_50549897" />
     <img src="https://stats.justsong.cn/api/leetcode?username=nervous-diffiebjp&cn=true" />
 </div>
-| <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50549897"> </div> |
-| <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?username=nervous-diffiebjp&cn=true"> </div> |
+
