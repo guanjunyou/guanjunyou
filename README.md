@@ -1,18 +1,12 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanjunyou&show_icons=true&theme=radical)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanjunyou&hide_progress=true)
+### 👋 Hello I'm GuanJunyou
 
-<!--
-**guanjunyou/guanjunyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
 
-Here are some ideas to get you started:
+- 💼 Student at [South China Normal University](https://www.scnu.edu.cn/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ I love writing [Java](https://github.com/topics/java) and [Golang](https://github.com/topics/golang)
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=guanjunyou&hide_border=true&show_icons=true&line_height=21&theme=github_dark" alt="SurKaa's github stats" /> |
+| ------ |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@guanjunyou&layout=compact&theme=github_dark&hide_border=true" /> |
